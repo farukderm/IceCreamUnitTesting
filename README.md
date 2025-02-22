@@ -4,14 +4,14 @@ Ice Cream Sales Website, kullanıcıların çeşitli dondurmalar arasından seç
 
 ## Teknolojiler
 
-React - Kullanıcı arayüzünü oluşturmak için
-React Redux - Durum yönetimi için
-Axios - API ile veri çekmek ve siparişleri göndermek için
-React Router DOM - Sayfalar arası geçişler için
-React Toastify - Kullanıcıya bildirimler göstermek için
-Json-Server - Uygulamanın backend'i olarak kullanılacak sahte bir API
-Web Vitals - Uygulama performansını izlemek için
-Jest & React Testing Library - Unit testler ve bileşen testleri için
+-- React - Kullanıcı arayüzünü oluşturmak için
+-- React Redux - Durum yönetimi için
+-- Axios - API ile veri çekmek ve siparişleri göndermek için
+-- React Router DOM - Sayfalar arası geçişler için
+-- React Toastify - Kullanıcıya bildirimler göstermek için
+-- Json-Server - Uygulamanın backend'i olarak kullanılacak sahte bir API
+-- Web Vitals - Uygulama performansını izlemek için
+-- Jest & React Testing Library - Unit testler ve bileşen testleri için
 
 ## Özellikler
 
