@@ -20,3 +20,6 @@ Dondurmayı sepete ekleyip, sipariş oluşturma.
 Siparişin başarılı bir şekilde alındığını bildiren kullanıcı dostu bildirimler.
 Json-Server ile sahte bir backend API üzerinden sipariş verisi ve dondurma listesi sağlanır.
 Unit Testing yapılarak uygulamanın doğru çalışıp çalışmadığı test edilmiştir.
+
+
+## Ekran Görüntüsü
