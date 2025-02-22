@@ -23,3 +23,7 @@ Unit Testing yapılarak uygulamanın doğru çalışıp çalışmadığı test e
 
 
 ## Ekran Görüntüsü
+
+
+https://github.com/user-attachments/assets/8428b1fd-211e-4749-b43a-df610a266768
+
