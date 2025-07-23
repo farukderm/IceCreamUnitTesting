@@ -25,5 +25,6 @@ Unit Testing yapılarak uygulamanın doğru çalışıp çalışmadığı test e
 ## Ekran Görüntüsü
 
 
-https://github.com/user-attachments/assets/8428b1fd-211e-4749-b43a-df610a266768
+![icecream](https://github.com/user-attachments/assets/b82dc0a0-ea0e-4ac4-a60b-2d44cb6c1d02)
+
 
